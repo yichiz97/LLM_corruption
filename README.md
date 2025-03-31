@@ -21,4 +21,4 @@
   </tr>
 </table>
 
-<p align="center"><em>Fig. R1: (Updated Figure 3 & 6) The AUC of different methods for four datasets with LLM cheaters using GPT-4 to generate labels. FaitCrowd and AggNet are the two suggested baselines. AggNet only works for binary labels which does not directly apply to the preference alignment dataset.</em></p>
+<p align="center"><em>Fig. R1: (Updated Figure 3 & 6) The AUC of different methods for four datasets with LLM cheaters using GPT-4 to generate labels and the total fraction of cheaters fixed at 0.25. FaitCrowd and AggNet are the two suggested baselines. AggNet only works for binary labels which does not directly apply to the preference alignment dataset.</em></p>
