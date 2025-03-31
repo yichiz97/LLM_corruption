@@ -21,4 +21,4 @@
   </tr>
 </table>
 
-<p align="center"><em>The plots for AUC for 4 methods</em></p>
+<p align="center"><em>(Updated Figure 3) The AUC of different methods for four datasets with LLM cheaters using GPT-4 to generate labels.</em></p>
