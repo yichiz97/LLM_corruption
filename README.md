@@ -27,15 +27,15 @@
 <table>
   <tr>
     <td align="center">
-      <img src="detect_preference_gpt3_gpt4.png" alt="Preference Alignment" width="500"><br>
+      <img src="detect_preference_gpt3_gpt4.png" alt="Preference Alignment" width="600"><br>
       <strong>GPT-3.5 & GPT-4</strong>
     </td>
     <td align="center">
-      <img src="detect_preference_gemma_gpt4.png" alt="Hatefulness" width="500"><br>
+      <img src="detect_preference_gemma_gpt4.png" alt="Hatefulness" width="600"><br>
       <strong>Gemma & GPT-4</strong>
     </td>
     <td align="center">
-      <img src="detect_preference_gemma_gpt3.png" alt="Hatefulness" width="500"><br>
+      <img src="detect_preference_gemma_gpt3.png" alt="Hatefulness" width="600"><br>
       <strong>Gemma & GPT-3.5</strong>
     </td>
   </tr>
