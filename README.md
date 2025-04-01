@@ -1,21 +1,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="detect_preference_gpt4_updated.png" alt="Preference Alignment" width="800"><br>
+      <img src="detect_preference_gpt4_updated.png" alt="Preference Alignment" width="600"><br>
       <strong>Preference Alignment</strong>
     </td>
     <td align="center">
-      <img src="detect_hateful_gpt4_updated.png" alt="Hatefulness" width="800"><br>
+      <img src="detect_hateful_gpt4_updated.png" alt="Hatefulness" width="600"><br>
       <strong>Hatefulness</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="detect_offensive_gpt4_updated.png" alt="Offensiveness" width="800"><br>
+      <img src="detect_offensive_gpt4_updated.png" alt="Offensiveness" width="600"><br>
       <strong>Offensiveness</strong>
     </td>
     <td align="center">
-      <img src="detect_toxic_gpt4_updated.png" alt="Toxicity" width="800"><br>
+      <img src="detect_toxic_gpt4_updated.png" alt="Toxicity" width="600"><br>
       <strong>Toxicity</strong>
     </td>
   </tr>
@@ -27,21 +27,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="detect_preference_gpt4_updated_02.png" alt="Preference Alignment" width="800"><br>
+      <img src="detect_preference_gpt4_updated_02.png" alt="Preference Alignment" width="600"><br>
       <strong>Preference Alignment</strong>
     </td>
     <td align="center">
-      <img src="detect_hateful_gpt4_updated_02.png" alt="Hatefulness" width="800"><br>
+      <img src="detect_hateful_gpt4_updated_02.png" alt="Hatefulness" width="600"><br>
       <strong>Hatefulness</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="detect_offensive_gpt4_updated_02.png" alt="Offensiveness" width="800"><br>
+      <img src="detect_offensive_gpt4_updated_02.png" alt="Offensiveness" width="600"><br>
       <strong>Offensiveness</strong>
     </td>
     <td align="center">
-      <img src="detect_toxic_gpt4_updated_02.png" alt="Toxicity" width="800"><br>
+      <img src="detect_toxic_gpt4_updated_02.png" alt="Toxicity" width="600"><br>
       <strong>Toxicity</strong>
     </td>
   </tr>
@@ -53,21 +53,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="detect_preference_gpt4_updated_03.png" alt="Preference Alignment" width="800"><br>
+      <img src="detect_preference_gpt4_updated_03.png" alt="Preference Alignment" width="600"><br>
       <strong>Preference Alignment</strong>
     </td>
     <td align="center">
-      <img src="detect_hateful_gpt4_updated_03.png" alt="Hatefulness" width="800"><br>
+      <img src="detect_hateful_gpt4_updated_03.png" alt="Hatefulness" width="600"><br>
       <strong>Hatefulness</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="detect_offensive_gpt4_updated_03.png" alt="Offensiveness" width="800"><br>
+      <img src="detect_offensive_gpt4_updated_03.png" alt="Offensiveness" width="600"><br>
       <strong>Offensiveness</strong>
     </td>
     <td align="center">
-      <img src="detect_toxic_gpt4_updated_03.png" alt="Toxicity" width="800"><br>
+      <img src="detect_toxic_gpt4_updated_03.png" alt="Toxicity" width="600"><br>
       <strong>Toxicity</strong>
     </td>
   </tr>
